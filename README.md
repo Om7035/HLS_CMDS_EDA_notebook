@@ -13,6 +13,40 @@ splitting.
 Every number quoted below is computed live in the notebook, not asserted —
 rerun it end-to-end and the printed outputs should match.
 
+## Scope: EDA vs. Dataset Integrity & Leakage Audit
+
+This repository contains two distinct layers of work, kept explicitly
+separate in the notebook (Section 5 marks the boundary):
+
+- **Layer 1 — Core EDA** (Sections 1–4.5, 16): environment/reproducibility
+  setup, file inventory, metadata/label checks, audio technical integrity
+  (clipping), signal-level and time-frequency exploration (waveforms,
+  spectrograms, Mel-spectrograms, MFCCs), and a feature-engineering proposal
+  for downstream classification. This directly answers the assigned EDA
+  brief.
+- **Layer 2 — Dataset Integrity & Leakage Audit** (Sections 5–15): the
+  metadata/duplicate checks in Layer 1 surfaced that a large share of the
+  corpus (305/535 files, 57%) participates in exact byte-identical duplicate
+  groups, and that this duplication crosses supposedly-fixed labels including
+  Gender. Rather than note that finding and move on, this layer quantifies
+  its downstream consequence for ML use (train/test contamination under
+  naive splitting), validates a mitigation (hash-aware splitting), and
+  statistically tests a separate structural claim about the data (whether
+  the dataset's own H+L→M pairing is acoustically meaningful), with
+  correction for multiple comparisons.
+
+Basic duplicate detection was already within the assigned brief ("check for
+duplicate recordings"); what extends beyond it is the *depth* of that
+investigation — exact byte-level hashing, empirical contamination
+simulation, and hypothesis testing of the dataset's internal pairing claim.
+That depth was not planned in advance — it follows directly from what
+Section 5 found.
+
+*One-line summary: the core EDA surfaced significant data-integrity issues;
+the analysis was extended into a dataset-integrity and leakage audit,
+followed by targeted statistical validation of assumptions relevant to ML
+readiness.*
+
 ## Headline findings
 
 - **344 distinct byte-level audio identities among 535 files** (SHA256 and
@@ -21,7 +55,8 @@ rerun it end-to-end and the printed outputs should match.
 - **Naive random train/test splitting leaks data.** Pooled naive contamination
   averages ~51%, and is worse for single-task splits (~65% heart-only, ~74%
   lung-only), while a Mix-M-only task is near-zero. A hash-group-aware split
-  eliminates this contamination entirely (0%).
+  eliminates this contamination entirely (0%), as measured by the exact-hash
+  duplicate criterion used here.
 - **41% of duplicate groups (47/114) contain an identical recording labeled
   under both genders** — Gender should not be treated as an acoustically
   grounded label for reused recordings.
