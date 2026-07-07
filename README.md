@@ -44,8 +44,25 @@ rerun it end-to-end and the printed outputs should match.
 
 See [`notebooks/HLS_CMDS_EDA_notebook.ipynb`](notebooks/HLS_CMDS_EDA_notebook.ipynb)
 for the full analysis, including the leakage simulation, the metadata schema
-audit (Location field mixes heart-site and lung-field vocabularies), and the
-final synthesis/verdict table.
+audit (Location field mixes heart-site and lung-field vocabularies), the
+signal-level/spectral exploration (waveforms, STFT and Mel-spectrograms,
+MFCCs), a feature-engineering and modeling proposal, and the final
+synthesis/verdict table.
+
+## Signal-level and spectral exploration
+
+One representative file per role (HS, LS, Mix-H, Mix-L, Mix-M) is visualized
+as a raw waveform, STFT spectrogram, Mel-spectrogram, and MFCC heatmap — see
+[`outputs/figures`](outputs/figures) or Section 4.5 of the notebook. This is
+exploratory/visual on a single file per role; the quantitative, citation-backed
+heart-vs-lung frequency-band check across the *full* corpus is done separately
+in Section 12.1 (and the two do not necessarily agree at N=1 — the notebook
+is explicit about that).
+
+The notebook also proposes a concrete feature set (band-energy ratios, MFCCs,
+spectral centroid, zero-crossing rate), a fixed-length windowing/segmentation
+strategy, and a suggested modeling path (classical ML baseline vs. CNN on
+spectrograms) — see Section 16.
 
 ## Repo structure
 
