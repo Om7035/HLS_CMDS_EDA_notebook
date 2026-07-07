@@ -1,0 +1,3 @@
+issue_type,scope,affected_ids,evidence,confidence,recommended_handling
+abbreviation_scheme_mismatch,LS.csv,"15 rows (Coarse Crackles, Fine Crackles classes)","CSV encodes G=Coarse Crackles, C=Fine Crackles; on-disk filenames use CC, FC respectively",High,"Explicit correction map {'G':'CC','C':'FC'} applied visibly; validated via empty set-difference"
+whitespace_in_id,LS.csv row 45,' M_W_LMA' (leading space),Lung Sound ID != Lung Sound ID.str.strip(),High,Handled by .strip() in csv_id_to_filename_stem()

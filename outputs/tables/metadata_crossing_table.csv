@@ -1,0 +1,115 @@
+hash_group,files,type_crosses,location_crosses,gender_crosses
+008d47f314df,"['HS/F_ESM_LUSB.wav', 'Mix-H/H0050.wav', 'Mix-H/H0075.wav']",False,False,False
+012a1a39d4f3,"['LS/F_N_RLA.wav', 'Mix-L/L0002.wav', 'Mix-L/L0020.wav', 'Mix-L/L0110.wav', 'Mix-L/L0140.wav']",False,False,False
+01906a7b073a,"['HS/M_LSM_LUSB.wav', 'Mix-H/H0033.wav']",False,False,True
+045b76378f29,"['Mix-L/L0067.wav', 'Mix-L/L0077.wav']",False,False,False
+050c93ed3fea,"['Mix-L/L0011.wav', 'Mix-L/L0095.wav']",False,False,True
+05a9b7a07e9b,"['Mix-L/L0037.wav', 'Mix-L/L0038.wav', 'Mix-L/L0066.wav', 'Mix-L/L0130.wav']",False,False,True
+05bb39b91249,"['Mix-H/H0068.wav', 'Mix-H/H0071.wav']",False,False,False
+0c48d8bb8ee6,"['LS/M_R_LMA.wav', 'Mix-L/L0047.wav']",False,True,False
+0c8586c0e130,"['HS/F_AF_A.wav', 'Mix-H/H0065.wav', 'Mix-H/H0114.wav']",False,False,True
+12300fef382f,"['Mix-L/L0006.wav', 'Mix-L/L0013.wav', 'Mix-L/L0025.wav', 'Mix-L/L0030.wav']",False,False,True
+130bc3198c44,"['HS/M_LSM_RUSB.wav', 'Mix-H/H0018.wav', 'Mix-H/H0078.wav', 'Mix-H/H0101.wav', 'Mix-H/H0105.wav']",False,True,True
+14bbf45334b2,"['Mix-H/H0073.wav', 'Mix-H/H0086.wav']",False,False,False
+1ba22da1f72f,"['Mix-L/L0051.wav', 'Mix-L/L0122.wav']",False,False,True
+1e44aa69ab96,"['HS/F_N_A.wav', 'Mix-H/H0133.wav']",False,False,False
+2253e27468f6,"['Mix-M/M0111.wav', 'Mix-M/M0126.wav']",False,False,False
+260191f3f132,"['HS/M_MSM_LUSB.wav', 'Mix-H/H0080.wav', 'Mix-H/H0104.wav', 'Mix-H/H0125.wav']",False,False,True
+26d9211ea160,"['HS/M_LDM_LLSB.wav', 'Mix-H/H0045.wav']",False,False,False
+2778d5741abd,"['HS/F_LSM_LUSB.wav', 'Mix-H/H0001.wav', 'Mix-H/H0021.wav']",False,False,True
+27f83d63b5eb,"['Mix-L/L0054.wav', 'Mix-L/L0105.wav', 'Mix-L/L0136.wav']",False,False,True
+2cbdaefb3804,"['HS/M_N_LC.wav', 'Mix-H/H0039.wav']",False,False,False
+2ce6ab8b7b51,"['Mix-H/H0003.wav', 'Mix-H/H0046.wav', 'Mix-H/H0087.wav']",False,False,True
+2f726202cb58,"['HS/F_S3_A.wav', 'Mix-H/H0004.wav', 'Mix-H/H0127.wav']",False,True,True
+3401b9b9886a,"['Mix-L/L0039.wav', 'Mix-L/L0089.wav', 'Mix-L/L0139.wav']",False,False,False
+342460fdffa6,"['Mix-H/H0108.wav', 'Mix-L/L0031.wav', 'Mix-L/L0055.wav', 'Mix-L/L0131.wav']",True,True,True
+35684faf15c4,"['LS/M_N_RMA.wav', 'Mix-L/L0078.wav', 'Mix-L/L0142.wav', 'Mix-L/L0145.wav']",False,True,True
+35846bbc95e8,"['Mix-L/L0040.wav', 'Mix-L/L0088.wav', 'Mix-L/L0094.wav']",False,False,False
+368225714fea,"['Mix-H/H0006.wav', 'Mix-H/H0017.wav']",False,False,False
+36fae8a26c7f,"['Mix-L/L0033.wav', 'Mix-L/L0104.wav']",False,False,True
+3add3455ce4f,"['Mix-L/L0001.wav', 'Mix-L/L0056.wav']",False,False,False
+405f51125b2d,"['HS/M_AVB_LLSB.wav', 'Mix-H/H0037.wav', 'Mix-H/H0121.wav']",False,True,True
+48adc3e3a3e5,"['HS/F_T_RC.wav', 'Mix-H/H0051.wav', 'Mix-H/H0090.wav']",False,True,True
+495069be58e6,"['Mix-L/L0007.wav', 'Mix-L/L0065.wav']",False,False,True
+4b0522e80c60,"['Mix-H/H0049.wav', 'Mix-H/H0063.wav']",False,False,True
+4cb7d9feefd0,"['Mix-L/L0109.wav', 'Mix-L/L0120.wav']",False,False,False
+4fb2631bcdf9,"['Mix-H/H0020.wav', 'Mix-H/H0057.wav']",False,False,False
+51088c45295a,"['Mix-H/H0062.wav', 'Mix-H/H0136.wav']",False,True,True
+516775776e1b,"['Mix-L/L0026.wav', 'Mix-L/L0075.wav', 'Mix-L/L0080.wav']",False,False,True
+5899c231c6d8,"['LS/M_R_LUA.wav', 'Mix-L/L0096.wav']",False,False,False
+602a1f583ad5,"['LS/F_R_RLA.wav', 'Mix-L/L0016.wav']",False,False,False
+62de99b71aa1,"['Mix-H/H0022.wav', 'Mix-H/H0093.wav', 'Mix-H/H0134.wav']",False,False,False
+66631c4fd6c0,"['LS/M_W_LLA.wav', 'Mix-L/L0103.wav', 'Mix-L/L0121.wav', 'Mix-L/L0127.wav']",False,False,True
+676a83c3bb44,"['LS/M_W_RMA.wav', 'Mix-L/L0018.wav', 'Mix-L/L0101.wav', 'Mix-L/L0124.wav']",False,False,True
+6850efa827a3,"['LS/F_PR_LUA.wav', 'Mix-L/L0032.wav']",False,False,False
+686eab0950d1,"['Mix-H/H0054.wav', 'Mix-H/H0097.wav', 'Mix-H/H0145.wav']",False,False,True
+6a033c302299,"['LS/F_CC_LUA.wav', 'Mix-L/L0010.wav', 'Mix-L/L0015.wav']",False,False,False
+6d993c4c589a,"['Mix-H/H0044.wav', 'Mix-H/H0106.wav', 'Mix-H/H0122.wav']",False,False,False
+6e0f8aa93a9a,"['LS/M_PR_LMA.wav', 'Mix-L/L0073.wav']",False,False,False
+6e16fbcfbcae,"['LS/F_R_LUA.wav', 'Mix-L/L0014.wav', 'Mix-L/L0108.wav']",False,False,False
+7043f1b2c8a5,"['HS/M_N_LLSB.wav', 'Mix-H/H0066.wav', 'Mix-H/H0107.wav']",False,False,False
+7087bb3226bd,"['LS/F_CC_RLA.wav', 'Mix-L/L0057.wav']",False,False,False
+73a7070b2a33,"['LS/M_N_LLA.wav', 'Mix-L/L0138.wav']",False,False,False
+75c288090860,"['HS/F_LSM_A.wav', 'Mix-H/H0031.wav', 'Mix-H/H0055.wav', 'Mix-H/H0069.wav', 'Mix-H/H0070.wav', 'Mix-H/H0082.wav', 'Mix-H/H0094.wav']",False,True,True
+75ff8f1dbbfa,"['Mix-H/H0016.wav', 'Mix-H/H0102.wav']",False,False,True
+7730efe789b1,"['Mix-L/L0114.wav', 'Mix-L/L0119.wav', 'Mix-L/L0129.wav', 'Mix-L/L0141.wav']",False,True,True
+773c78538578,"['LS/M_CC_LMA.wav', 'Mix-L/L0021.wav', 'Mix-L/L0087.wav', 'Mix-L/L0093.wav']",False,True,False
+78b25cdb9d82,"['Mix-H/H0013.wav', 'Mix-H/H0025.wav']",False,False,True
+795ccd669ca1,"['Mix-L/L0005.wav', 'Mix-L/L0068.wav', 'Mix-L/L0099.wav', 'Mix-L/L0128.wav']",False,False,True
+7c7e83b21a11,"['LS/M_N_LMA.wav', 'Mix-L/L0003.wav', 'Mix-L/L0084.wav', 'Mix-L/L0125.wav', 'Mix-L/L0134.wav']",False,True,True
+7cc5ed4feca6,"['HS/M_LDM_LUSB.wav', 'Mix-H/H0123.wav']",False,True,False
+82f4276b0dc4,"['HS/F_LDM_A.wav', 'Mix-H/H0137.wav']",False,False,True
+83d1e9303c7b,"['Mix-L/L0023.wav', 'Mix-L/L0135.wav']",False,False,False
+847a34a50d57,"['HS/M_S4_LUSB.wav', 'Mix-H/H0024.wav']",False,False,False
+8a4f778e6165,"['LS/M_CC_RLA.wav', 'Mix-L/L0069.wav']",False,False,False
+8dcaf616ccb1,"['Mix-H/H0110.wav', 'Mix-H/H0140.wav', 'Mix-H/H0143.wav']",False,False,False
+8e26f0831bf2,"['HS/M_AF_RUSB.wav', 'Mix-H/H0091.wav']",False,False,False
+90ecb009b57e,"['HS/M_T_LUSB.wav', 'Mix-H/H0098.wav']",False,False,False
+910cc55a5966,"['Mix-L/L0029.wav', 'Mix-L/L0052.wav']",False,False,True
+934df9a969d2,"['HS/F_N_RC.wav', 'Mix-H/H0096.wav']",False,True,True
+99c8291451d4,"['Mix-H/H0023.wav', 'Mix-H/H0029.wav', 'Mix-H/H0040.wav', 'Mix-H/H0079.wav']",False,False,True
+9a2bc6fb3d86,"['Mix-H/H0011.wav', 'Mix-H/H0064.wav', 'Mix-H/H0141.wav']",False,False,False
+9abfb764cde2,"['Mix-L/L0111.wav', 'Mix-L/L0126.wav']",False,False,False
+9aff30a6000f,"['LS/M_W_RLA.wav', 'Mix-L/L0143.wav']",False,False,True
+9c5ff84f4ab9,"['HS/F_LDM_LUSB.wav', 'Mix-H/H0060.wav']",False,True,True
+9e2474ad2e76,"['HS/F_MSM_A.wav', 'Mix-H/H0095.wav']",False,False,False
+9e7e6935baca,"['HS/M_MSM_RUSB.wav', 'Mix-H/H0128.wav', 'Mix-H/H0142.wav']",False,True,True
+9ee10987193d,"['Mix-H/H0014.wav', 'Mix-H/H0015.wav']",False,False,False
+a3a034d756b5,"['HS/F_LSM_LLSB.wav', 'Mix-H/H0081.wav', 'Mix-H/H0100.wav']",False,False,False
+a6da5ca34cf4,"['Mix-L/L0053.wav', 'Mix-L/L0100.wav']",False,False,False
+a7394eb73eee,"['LS/F_FC_LUA.wav', 'Mix-L/L0045.wav', 'Mix-L/L0082.wav', 'Mix-L/L0133.wav', 'Mix-L/L0137.wav']",False,True,True
+ac20a79f36c8,"['Mix-H/H0103.wav', 'Mix-H/H0111.wav', 'Mix-H/H0126.wav']",False,False,False
+ae5100abccff,"['Mix-L/L0017.wav', 'Mix-L/L0028.wav', 'Mix-L/L0034.wav', 'Mix-L/L0044.wav']",False,False,True
+aeb854d58349,"['Mix-H/H0035.wav', 'Mix-H/H0048.wav']",False,False,True
+af10e002f758,"['HS/F_N_LC.wav', 'Mix-H/H0085.wav']",False,False,False
+b40f3be3088b,"['Mix-H/H0088.wav', 'Mix-H/H0131.wav', 'Mix-H/H0135.wav']",False,False,False
+b7bd67d92c95,"['Mix-H/H0028.wav', 'Mix-H/H0144.wav']",False,True,False
+bc5d13efdb59,"['LS/M_W_LUA.wav', 'Mix-L/L0009.wav', 'Mix-L/L0132.wav']",False,False,False
+bd5e2d6535f4,"['Mix-H/H0002.wav', 'Mix-H/H0059.wav']",False,False,False
+bde684e26a26,"['HS/F_S3_LLSB.wav', 'Mix-H/H0038.wav']",False,False,False
+c138fdea9a74,"['LS/M_N_LUA.wav', 'Mix-L/L0036.wav']",False,False,False
+c1e9a95d49da,"['LS/M_PR_RLA.wav', 'Mix-L/L0059.wav', 'Mix-L/L0102.wav']",False,False,True
+c1f3218b6eb1,"['HS/F_ESM_LLSB.wav', 'Mix-H/H0130.wav']",False,False,False
+c4cd0b01b75f,"['LS/M_PR_RUA.wav', 'Mix-L/L0019.wav']",False,False,False
+c73d7749bbed,"['HS/F_T_A.wav', 'Mix-H/H0007.wav', 'Mix-H/H0129.wav', 'Mix-H/H0138.wav']",False,True,True
+ca842287aea0,"['Mix-L/L0043.wav', 'Mix-L/L0083.wav', 'Mix-L/L0107.wav']",False,False,False
+ccc82265641f,"['LS/F_CC_RMA.wav', 'Mix-L/L0062.wav']",False,False,False
+d16353a5eaea,"['Mix-H/H0041.wav', 'Mix-H/H0115.wav']",False,False,False
+d3bb640c1411,"['HS/F_S4_RC.wav', 'Mix-H/H0030.wav']",False,False,False
+d79fe3777305,"['Mix-H/H0019.wav', 'Mix-H/H0032.wav']",False,True,True
+d7f37d4dbf0c,"['Mix-L/L0064.wav', 'Mix-L/L0072.wav']",False,False,False
+d8e585f2e6c3,"['LS/F_N_LLA.wav', 'Mix-L/L0041.wav', 'Mix-L/L0046.wav']",False,True,False
+d8fbd7dc6ecd,"['LS/F_PR_LMA.wav', 'Mix-L/L0008.wav']",False,False,False
+da2290c4e13e,"['Mix-H/H0012.wav', 'Mix-H/H0124.wav']",False,False,True
+da6211d11656,"['Mix-L/L0022.wav', 'Mix-L/L0118.wav']",False,True,False
+daac5d4fd3a6,"['HS/M_AVB_A.wav', 'Mix-H/H0083.wav']",False,True,False
+e1f3b9a51908,"['LS/M_R_RUA.wav', 'Mix-L/L0049.wav', 'Mix-L/L0090.wav', 'Mix-L/L0106.wav']",False,True,False
+e3416021c0bf,"['LS/F_N_LUA.wav', 'Mix-L/L0070.wav', 'Mix-L/L0144.wav']",False,False,False
+e47372e6546d,"['HS/F_S3_LC.wav', 'Mix-H/H0139.wav']",False,False,True
+e4ce9cad3f1c,"['Mix-H/H0036.wav', 'Mix-H/H0132.wav']",False,False,False
+e70a770aa856,"['HS/M_LDM_LC.wav', 'Mix-H/H0077.wav']",False,True,True
+ec405e3467c2,"['Mix-L/L0058.wav', 'Mix-L/L0071.wav', 'Mix-L/L0091.wav']",False,False,False
+f3faa92fd750,"['LS/M_W_LMA.wav', 'Mix-L/L0060.wav', 'Mix-L/L0086.wav', 'Mix-L/L0123.wav']",False,False,False
+f48904f36ea3,"['Mix-L/L0024.wav', 'Mix-L/L0050.wav', 'Mix-L/L0098.wav']",False,False,True
+f70929d2cff4,"['LS/F_N_RUA.wav', 'Mix-L/L0074.wav']",False,False,False
+fff0e2ec049d,"['LS/M_FC_RLA.wav', 'Mix-L/L0035.wav']",False,False,False
